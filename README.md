@@ -1,6 +1,6 @@
 # YeyuEngine
 夜雨游戏引擎（JavaFX）
-> 依赖[PixelFX](https://github.com/imyeyu/PixelFX)
+> 依赖 [PixelFX](https://github.com/imyeyu/PixelFX)
 
 只是雏形，文档有空再写
 
